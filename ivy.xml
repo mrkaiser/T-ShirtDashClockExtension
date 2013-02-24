@@ -1,0 +1,6 @@
+<ivy-module version="2.0">
+    <info organisation="org.apache" module="shirt-ivy"/>
+    <dependencies>
+        <dependency org="org.jsoup" name="jsoup" rev="1.7.2"/>
+    </dependencies>
+</ivy-module>
